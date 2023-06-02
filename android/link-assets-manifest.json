@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Core Sans GS 45 Regular Italic.ttf",
+      "sha1": "c385da507e93ebbcee42afeaa8f205ef774df3d0"
+    },
+    {
+      "path": "src/assets/fonts/Core Sans GS 45 Regular.ttf",
+      "sha1": "dbf66cc20b6cc76262dc116c929dc4ebd8b16758"
+    },
+    {
+      "path": "src/assets/fonts/Core Sans GS 55 Medium.ttf",
+      "sha1": "a312899585144b2b4205daa373b51c667627d42e"
+    },
+    {
+      "path": "src/assets/fonts/Core Sans GS 65 Bold Italic.ttf",
+      "sha1": "ad0576c5b62aaea82eaa8ec3189f3fd4f8792ab1"
+    },
+    {
+      "path": "src/assets/fonts/Core Sans GS 65 Bold.ttf",
+      "sha1": "a655f5c00866c4260520fd7b54a082ec0c4c4613"
+    }
+  ]
+}

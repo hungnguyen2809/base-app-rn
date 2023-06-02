@@ -54,7 +54,7 @@
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>$(PRODUCT_NAME) yêu cầu quyền truy cập trên thiết bị</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string/>
+	<string></string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>$(PRODUCT_NAME) yêu cầu quyền truy cập trên thiết bị</string>
 	<key>NSMotionUsageDescription</key>
@@ -87,7 +87,7 @@
 		<string>Core Sans GS 65 Bold.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
+	<string>LaunchScreen.storyboard</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
